@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B2BA1BA251BFA09002F12BA /* nun nights beautiful.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0B2BA1B9251BF9E9002F12BA /* nun nights beautiful.mp3 */; };
+		0B2BA1C2251BFA42002F12BA /* kisses peas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0B2BA1C1251BFA3D002F12BA /* kisses peas.mp3 */; };
+		0B2BA1C4251BFA88002F12BA /* i miss you.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0B2BA1C3251BFA86002F12BA /* i miss you.mp3 */; };
+		0B2BA1C6251BFAB7002F12BA /* i love you so much.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0B2BA1C5251BFAB7002F12BA /* i love you so much.mp3 */; };
+		0B2BA1C8251BFAD9002F12BA /* hi beautiful.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0B2BA1C7251BFAD6002F12BA /* hi beautiful.mp3 */; };
+		0B2BA1CA251BFB0F002F12BA /* hi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0B2BA1C9251BFB0F002F12BA /* hi.mp3 */; };
+		0B2BA1CC251BFB1B002F12BA /* good morning.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0B2BA1CB251BFB1B002F12BA /* good morning.mp3 */; };
+		0B2BA1CE251BFB73002F12BA /* funniest shit ever.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0B2BA1CD251BFB73002F12BA /* funniest shit ever.mp3 */; };
+		0B2BA1D0251BFB9B002F12BA /* excuse me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0B2BA1CF251BFB9A002F12BA /* excuse me.mp3 */; };
+		0B2BA1D2251BFBA4002F12BA /* come on.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0B2BA1D1251BFBA4002F12BA /* come on.mp3 */; };
+		0B2BA1D4251BFC28002F12BA /* cuddle peas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0B2BA1D3251BFC28002F12BA /* cuddle peas.mp3 */; };
+		0B6836F5251A864E006DF988 /* I love you.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0B6836F4251A8633006DF988 /* I love you.mp3 */; };
 		0BC9531C251958D900031F85 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BC9531B251958D900031F85 /* AppDelegate.swift */; };
 		0BC9531E251958D900031F85 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BC9531D251958D900031F85 /* SceneDelegate.swift */; };
 		0BC95320251958D900031F85 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BC9531F251958D900031F85 /* ViewController.swift */; };
@@ -16,6 +28,14 @@
 		0BC9532B2519597100031F85 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BC953292519597100031F85 /* LaunchScreen.storyboard */; };
 		0BC953362519598900031F85 /* bubs_audioTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BC953352519598900031F85 /* bubs_audioTests.swift */; };
 		0BC953412519598900031F85 /* bubs_audioUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BC953402519598900031F85 /* bubs_audioUITests.swift */; };
+		0BE5A1C52523A6BF008830D2 /* pool.heic in Resources */ = {isa = PBXBuildFile; fileRef = 0BE5A1C42523A6BA008830D2 /* pool.heic */; };
+		0BE5A1EA252523A6008830D2 /* IMG_0831.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BE5A1E9252523A3008830D2 /* IMG_0831.jpg */; };
+		0BE5A1EF252523C0008830D2 /* IMG_0832.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BE5A1EE252523BF008830D2 /* IMG_0832.jpg */; };
+		0BE5A1F1252523D7008830D2 /* IMG_0833.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BE5A1F0252523D7008830D2 /* IMG_0833.jpg */; };
+		0BE5A1F3252523F2008830D2 /* IMG_0834.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BE5A1F2252523F1008830D2 /* IMG_0834.jpg */; };
+		0BE5A1F525252414008830D2 /* IMG_0835.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BE5A1F425252414008830D2 /* IMG_0835.jpg */; };
+		0BE5A1F725252421008830D2 /* IMG_0836.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BE5A1F625252421008830D2 /* IMG_0836.jpg */; };
+		0BE5A1F925252424008830D2 /* IMG_0837.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BE5A1F825252424008830D2 /* IMG_0837.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,10 +56,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0B2BA1B9251BF9E9002F12BA /* nun nights beautiful.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "nun nights beautiful.mp3"; sourceTree = "<group>"; };
+		0B2BA1C1251BFA3D002F12BA /* kisses peas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "kisses peas.mp3"; sourceTree = "<group>"; };
+		0B2BA1C3251BFA86002F12BA /* i miss you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "i miss you.mp3"; sourceTree = "<group>"; };
+		0B2BA1C5251BFAB7002F12BA /* i love you so much.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "i love you so much.mp3"; sourceTree = "<group>"; };
+		0B2BA1C7251BFAD6002F12BA /* hi beautiful.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "hi beautiful.mp3"; sourceTree = "<group>"; };
+		0B2BA1C9251BFB0F002F12BA /* hi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hi.mp3; sourceTree = "<group>"; };
+		0B2BA1CB251BFB1B002F12BA /* good morning.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "good morning.mp3"; sourceTree = "<group>"; };
+		0B2BA1CD251BFB73002F12BA /* funniest shit ever.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "funniest shit ever.mp3"; sourceTree = "<group>"; };
+		0B2BA1CF251BFB9A002F12BA /* excuse me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "excuse me.mp3"; sourceTree = "<group>"; };
+		0B2BA1D1251BFBA4002F12BA /* come on.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "come on.mp3"; sourceTree = "<group>"; };
+		0B2BA1D3251BFC28002F12BA /* cuddle peas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "cuddle peas.mp3"; sourceTree = "<group>"; };
+		0B6836F4251A8633006DF988 /* I love you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "I love you.mp3"; sourceTree = "<group>"; };
 		0BC95318251958D800031F85 /* bubs audio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "bubs audio.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BC9531B251958D900031F85 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0BC9531D251958D900031F85 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		0BC9531F251958D900031F85 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		0BC9531F251958D900031F85 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; lineEnding = 1; path = ViewController.swift; sourceTree = "<group>"; usesTabs = 0; };
 		0BC95322251958D900031F85 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0BC95325251958DA00031F85 /* bubs_audio.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = bubs_audio.xcdatamodel; sourceTree = "<group>"; };
 		0BC953272519597100031F85 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -51,6 +83,15 @@
 		0BC9533C2519598900031F85 /* bubs audioUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "bubs audioUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BC953402519598900031F85 /* bubs_audioUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bubs_audioUITests.swift; sourceTree = "<group>"; };
 		0BC953422519598900031F85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0BE5A1C42523A6BA008830D2 /* pool.heic */ = {isa = PBXFileReference; lastKnownFileType = file; path = pool.heic; sourceTree = "<group>"; };
+		0BE5A1E22524117F008830D2 /* cuddles.HEIC */ = {isa = PBXFileReference; lastKnownFileType = file; path = cuddles.HEIC; sourceTree = "<group>"; };
+		0BE5A1E9252523A3008830D2 /* IMG_0831.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0831.jpg; sourceTree = "<group>"; };
+		0BE5A1EE252523BF008830D2 /* IMG_0832.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0832.jpg; sourceTree = "<group>"; };
+		0BE5A1F0252523D7008830D2 /* IMG_0833.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0833.jpg; sourceTree = "<group>"; };
+		0BE5A1F2252523F1008830D2 /* IMG_0834.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0834.jpg; sourceTree = "<group>"; };
+		0BE5A1F425252414008830D2 /* IMG_0835.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0835.jpg; sourceTree = "<group>"; };
+		0BE5A1F625252421008830D2 /* IMG_0836.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0836.jpg; sourceTree = "<group>"; };
+		0BE5A1F825252424008830D2 /* IMG_0837.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0837.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +119,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0B2BA1D5251BFCCB002F12BA /* sounds */ = {
+			isa = PBXGroup;
+			children = (
+				0B2BA1CF251BFB9A002F12BA /* excuse me.mp3 */,
+				0B2BA1B9251BF9E9002F12BA /* nun nights beautiful.mp3 */,
+				0B2BA1C5251BFAB7002F12BA /* i love you so much.mp3 */,
+				0B2BA1D3251BFC28002F12BA /* cuddle peas.mp3 */,
+				0B2BA1C9251BFB0F002F12BA /* hi.mp3 */,
+				0B2BA1D1251BFBA4002F12BA /* come on.mp3 */,
+				0B2BA1C1251BFA3D002F12BA /* kisses peas.mp3 */,
+				0B6836F4251A8633006DF988 /* I love you.mp3 */,
+				0B2BA1C3251BFA86002F12BA /* i miss you.mp3 */,
+				0B2BA1CD251BFB73002F12BA /* funniest shit ever.mp3 */,
+				0B2BA1CB251BFB1B002F12BA /* good morning.mp3 */,
+				0B2BA1C7251BFAD6002F12BA /* hi beautiful.mp3 */,
+			);
+			path = sounds;
+			sourceTree = "<group>";
+		};
 		0BC9530F251958D500031F85 = {
 			isa = PBXGroup;
 			children = (
@@ -101,6 +161,7 @@
 		0BC9531A251958D800031F85 /* bubs audio */ = {
 			isa = PBXGroup;
 			children = (
+				0B2BA1D5251BFCCB002F12BA /* sounds */,
 				0BC9531B251958D900031F85 /* AppDelegate.swift */,
 				0BC9531D251958D900031F85 /* SceneDelegate.swift */,
 				0BC9531F251958D900031F85 /* ViewController.swift */,
@@ -109,6 +170,15 @@
 				0BC953292519597100031F85 /* LaunchScreen.storyboard */,
 				0BC9532C2519597200031F85 /* Info.plist */,
 				0BC95324251958DA00031F85 /* bubs_audio.xcdatamodeld */,
+				0BE5A1C42523A6BA008830D2 /* pool.heic */,
+				0BE5A1E22524117F008830D2 /* cuddles.HEIC */,
+				0BE5A1E9252523A3008830D2 /* IMG_0831.jpg */,
+				0BE5A1EE252523BF008830D2 /* IMG_0832.jpg */,
+				0BE5A1F0252523D7008830D2 /* IMG_0833.jpg */,
+				0BE5A1F2252523F1008830D2 /* IMG_0834.jpg */,
+				0BE5A1F425252414008830D2 /* IMG_0835.jpg */,
+				0BE5A1F825252424008830D2 /* IMG_0837.jpg */,
+				0BE5A1F625252421008830D2 /* IMG_0836.jpg */,
 			);
 			path = "bubs audio";
 			sourceTree = "<group>";
@@ -234,9 +304,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B2BA1D2251BFBA4002F12BA /* come on.mp3 in Resources */,
+				0B2BA1C2251BFA42002F12BA /* kisses peas.mp3 in Resources */,
+				0B6836F5251A864E006DF988 /* I love you.mp3 in Resources */,
+				0B2BA1CC251BFB1B002F12BA /* good morning.mp3 in Resources */,
+				0BE5A1EF252523C0008830D2 /* IMG_0832.jpg in Resources */,
+				0B2BA1D0251BFB9B002F12BA /* excuse me.mp3 in Resources */,
+				0BE5A1F3252523F2008830D2 /* IMG_0834.jpg in Resources */,
 				0BC9532B2519597100031F85 /* LaunchScreen.storyboard in Resources */,
+				0B2BA1BA251BFA09002F12BA /* nun nights beautiful.mp3 in Resources */,
 				0BC953282519597100031F85 /* Assets.xcassets in Resources */,
+				0BE5A1C52523A6BF008830D2 /* pool.heic in Resources */,
+				0BE5A1EA252523A6008830D2 /* IMG_0831.jpg in Resources */,
+				0B2BA1CE251BFB73002F12BA /* funniest shit ever.mp3 in Resources */,
+				0B2BA1CA251BFB0F002F12BA /* hi.mp3 in Resources */,
+				0B2BA1C4251BFA88002F12BA /* i miss you.mp3 in Resources */,
+				0B2BA1C8251BFAD9002F12BA /* hi beautiful.mp3 in Resources */,
+				0BE5A1F525252414008830D2 /* IMG_0835.jpg in Resources */,
 				0BC95323251958D900031F85 /* Main.storyboard in Resources */,
+				0BE5A1F725252421008830D2 /* IMG_0836.jpg in Resources */,
+				0BE5A1F1252523D7008830D2 /* IMG_0833.jpg in Resources */,
+				0B2BA1C6251BFAB7002F12BA /* i love you so much.mp3 in Resources */,
+				0BE5A1F925252424008830D2 /* IMG_0837.jpg in Resources */,
+				0B2BA1D4251BFC28002F12BA /* cuddle peas.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -443,6 +533,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6HX493DX8X;
 				INFOPLIST_FILE = "bubs audio/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -462,6 +553,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6HX493DX8X;
 				INFOPLIST_FILE = "bubs audio/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
